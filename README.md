@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# WINTRA
+# ShooNet
 
 
 <i>ShopNet is a dynamic e-commerce platform designed to revolutionize your clothing shopping experience. We offer a curated collection of trendy outfits, catering to a variety of styles and preferences.</i>
