@@ -39,7 +39,7 @@ Ensure that `Node.js` is installed on your machine.
 
     ```bash
     git clone https://github.com/ShashankShekhar07/Wintra.git
-    cd Wintra
+    cd ShopNet
     ```
 
 
